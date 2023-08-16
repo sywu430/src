@@ -1,0 +1,6 @@
+0,09:00,08-13-2023,NYC,Boston
+1,10:00,08-13-2023,NYC,Boston
+2,11:00,08-13-2023,NYC,Boston
+3,10:00,08-13-2023,NYC,Philadelphia
+4,11:00,08-13-2023,NYC,Philadelphia
+5,12:00,08-13-2023,NYC,Philadelphia
